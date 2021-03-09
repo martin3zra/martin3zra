@@ -1,6 +1,6 @@
 # Hi, I'm Alfredo 👋
 
-<img src="https://raw.githubusercontent.com/martin3zra/martin3zra/master/me.png" alt="banner that says Alfredo Martínez - software engineer" height="250" width="80%">
+<img src="https://raw.githubusercontent.com/martin3zra/martin3zra/master/me.png" alt="banner that says Alfredo Martínez - software engineer" height="250" width="50%">
 
 I'm a full-stack software engineer from Dominican Republic, focused on solutions for web and mobile applications.
 
