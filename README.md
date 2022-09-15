@@ -4,7 +4,7 @@
 
 I'm a full-stack software engineer from Dominican Republic, focused on solutions for web and mobile applications.
 
-My area of expertise and interest are iOs, React Native and React, VueJS, Node, PHP, Laravel, Go, Java, Spring Boot, APIs, software and database architecture.
+My area of expertise and interest are iOS, React Native and React, VueJS, Node, PHP, Laravel, Go, Java, Spring Boot, APIs, software and database architecture.
 
 Currently [Jobsity, LLC](https://jobsity.com) as Senior Software Engineer 
 
