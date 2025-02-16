@@ -6,10 +6,12 @@ I'm a full-stack software engineer from Dominican Republic, focused on solutions
 
 My area of expertise and interest are iOS, React Native and React, VueJS, Node, PHP, Laravel, Go, Java, Spring Boot, APIs, software and database architecture.
 
-Currently [Jobsity, LLC](https://jobsity.com) as Senior Software Engineer 
+Currently [NewCombin](https://newcombin.com/) as Senior Software Engineer 
 
 Previously:
 - [Centally, LLC](http://centally.com) as Tech Lead & Senior Software Engineer.
+- [GBH](https://gbh.com.do) as Senior Software Engineer .
+- [Jobsity, LLC](https://jobsity.com) as Senior Software Engineer
 - [GBH](https://gbh.com.do) as Senior Software Engineer .
 
 
